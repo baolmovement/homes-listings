@@ -1,4 +1,9 @@
 button{
     background-color:green;
     color:white;
-} 
+}   
+input{
+    width:400px;   
+    height: 50px;
+    border-radius: 5px;
+}
